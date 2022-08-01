@@ -12,3 +12,13 @@ The pipeline consists of the following steps:
 4. Mapping the sequencing data to the database to get count tables.
 5. Calculating frequency changes for each sequence in the database.
 6. Cross-comparison of the results obtained for each individual experiment.
+
+Dependencies:
+This pipeline uses several third party software that should be installed and be functional:
+- Trimmomatic (v 0.36)
+- USEARCH10
+- getorf
+- transeq
+- faToTab
+- seqtk
+
