@@ -4,6 +4,9 @@ authors:
   - family-names: Fajardo Castro
     given-names: Johana
     orcid: https://orcid.org/0000-0002-4472-6204
-title: "Study of amplicon sequence data from random sequences in a population of cells"
+  - family-names: Tautz
+    given-names: Diethard
+    orcid: https://orcid.org/0000-0002-0460-5344
+title: "The Effects of Sequence Length and Composition of Random Sequence Peptides on the Growth of E. coli Cells"
 doi: https://doi.org/10.1101/2021.11.22.469569
-date-released: 2021-11-30
+date-released: 2021-11-28
