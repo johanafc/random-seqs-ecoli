@@ -21,4 +21,6 @@ This pipeline uses several third party software that should be installed and be 
 - transeq
 - faToTab
 - seqtk
+- IUpred2
 
+Additionallly, protein aggregation propensities in step 2 were calculated using an online tool: PASTA2.0 http://old.protein.bio.unipd.it/pasta2/ (Ian Walsh, Flavio Seno, Silvio C.E. Tosatto and Antonio Trovato. PASTA2: An improved server for protein aggregation prediction. Nucleic Acids Research, 2014 Jul;42(Web Server issue):W301-7.)
